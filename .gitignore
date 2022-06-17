@@ -1,3 +1,6 @@
 *.doc
+<<<<<<< HEAD
 /build
 /dist/
+=======
+>>>>>>> 70e2cab (creación de gitignore)
